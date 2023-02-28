@@ -47,8 +47,7 @@ The model we will be using is Deep ConvNet, and you can see its architecture in 
 # Training parameters
 The table presented below displays the parameters that were used during the model training process.
 
-<center>
-  <div>
+
 | Parameter | Value |
 |:---------:|:------:|
 | Normalize input | Mean = 0.5 <br> Std = 0.5|
@@ -67,8 +66,7 @@ The table presented below displays the parameters that were used during the mode
 | Activation function | ReLu |
 | Learning rate | 1e-3 |
 | Epochs | 25 |
-  </div>
-</center>
+
 
 
 # Loss
