@@ -46,6 +46,8 @@ The model we will be using is Deep ConvNet, and you can see its architecture in 
 
 # Training parameters
 The table presented below displays the parameters that were used during the model training process.
+<center>
+  <div>
 
 | Parameter | Value |
 |:---------:|:------:|
@@ -65,6 +67,12 @@ The table presented below displays the parameters that were used during the mode
 | Activation function | ReLu |
 | Learning rate | 1e-3 |
 | Epochs | 25 |
+
+
+
+  </div>
+</center>
+
 
 # Loss
 The figure below shows the Mean Squared Error (MSE) loss of the model over the course of 25 epochs. MSE is a common loss function used in machine learning to measure the difference between the predicted values and the actual values. A lower MSE indicates better performance, as it means the predicted values are closer to the actual values. By tracking the MSE loss over time, we can evaluate how well the model is learning from the training data and identify any issues that may need to be addressed. In this case, the figure provides a visual representation of how the model's performance changes over the course of 25 epochs."
